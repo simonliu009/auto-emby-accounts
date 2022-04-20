@@ -12,13 +12,13 @@ log_level = 3
 overwrite = False
 
 # The url to your Emby server
-emby_base_url = 'http://localhost:8096'
+emby_base_url = 'https://pornemby.club:443'
 
 # Login info for an account on your Emby server that has admin privileges
 # Username
-emby_admin_uname = ''
+emby_uname = 'SimonLiu009'
 # Password
-emby_admin_passwd = ''
+emby_passwd = 'Act8935PornEmby'
 
 # The script will avoid doing anything to these users AND admin_uname
 avoid_users = [
